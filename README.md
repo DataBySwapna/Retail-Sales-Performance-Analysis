@@ -31,7 +31,7 @@ This project involves analyzing retail sales data in **Excel** to:
 - **Microsoft Excel**:
   - PivotTables
   - Functions
-  - Charts
+
 
 ---
 
@@ -65,58 +65,37 @@ This project involves analyzing retail sales data in **Excel** to:
 
 ---
 
-## 📊 **Sample Visualizations**
-###Extracted Date Components from Data Column 📊
-## Visualization:
+## 📊 **Visualizations**
+# Extracted Date Components from Data Column 📊
 ![image](https://github.com/user-attachments/assets/3c5765ef-5975-4f22-b21b-44cfeb8c67c6)
 
-### sorting, filtering, and analysis of transaction details.  
-## Visualization:
+# Sorting, filtering, and analysis of transaction details 📊
 ![image](https://github.com/user-attachments/assets/0ed8272f-ccc8-4ca9-818f-00de9807b455)
 
-### Commission Total Using Excel SUM Function 💹
+# Commission Total Using Excel SUM Function 💹
 In this table, the **SUM** function was used to calculate the total commission for the year 2023, displaying the result in cell **L10**.
-## Visualization:
 ![image](https://github.com/user-attachments/assets/812ec98f-8bc8-4ff6-a4d5-1dae48852e3d)
 
-### Average Commission Using Excel AVERAGE Function 📊
+# Average Commission Using Excel AVERAGE Function 📊
 In this table, the **AVERAGE** function was used to calculate the average commission for the year 2023, with the result displayed in cell **L11**.
-## Visualization:
-![Average Commission](path_to_your_image_file_in_repo.png)
+![image](https://github.com/user-attachments/assets/774c6d0d-58b3-47a1-a876-a904b6ac21a1)
 
-### Aggregate Functions for Sales Data Analysis 📊
-In this analysis, key aggregate functions were applied to the sales dataset to summarize and derive insights from the data.
-- **SUM**: Calculated the total commission for the dataset, resulting in **£6,840.00**.
-- **AVERAGE**: Determined the average commission value, which is **£6.84**.
-- **MIN**: Found the lowest commission value, **£0.38**.
-- **MAX**: Identified the highest commission value, **£30.00**.
-- **COUNT**: Counted the total transactions, reaching **1,000** entries.
-- **SUMIFS**: Applied conditional summation for specific product categories like Beauty, Clothing, and Electronics.
-- **AVERAGEIFS**: Calculated the average for filtered data subsets.
-- **COUNTIFS**: Counted entries meeting specific conditions for each category.
-## Visualization:
-![Aggregate Functions](path_to_your_image_file_in_repo.png)
+# Aggregate Functions for Sales Data Analysis 📊
+![image](https://github.com/user-attachments/assets/90b7d25c-0235-404e-bb91-6b11fd8e63e0)
 
-### VLOOKUP and XLOOKUP Functions for Data Retrieval 🔍
-This analysis utilized the **VLOOKUP** and **XLOOKUP** functions in Excel to retrieve and analyze sales data effectively.
-## Visualization:
-![VLOOKUP and XLOOKUP Functions](path_to_your_image_file_in_repo.png)
+# VLOOKUP and XLOOKUP Functions for Data Retrieval 🔍
+![image](https://github.com/user-attachments/assets/641f3eec-2419-4726-8db4-661d73a11cd9)
 
-### Concatenation and Data Validation 🎯
-This analysis employed the **CONCATENATE** function for combining strings and **Data Validation** for controlled inputs in Excel.
-### Visualization:
-![Concatenation and Data Validation](path_to_your_image_file_in_repo.png)
+# Concatenation and Data Validation 🎯
+![image](https://github.com/user-attachments/assets/f3bdc573-8a03-40cc-b910-5f535c9ec64c)
 
-
-## Categorization and Data Summary 📊
+# Categorization and Data Summary 📊
 This step categorizes products based on sales volume and summarizes the data using a pivot table.
-- **SWITCH Function**:
-  - Added a new column categorizing sales as "High," "Medium," or "Low" based on sales volume thresholds.
+- **SWITCH Function**:  
   - Example Formula: `=SWITCH(TRUE, [Sales Volume]>=600, "High", [Sales Volume]>=300, "Medium", "Low")`.
 - **Pivot Table**:
   - Summarized data by county (rows) and product types (columns).
   - Sales Volume used as the aggregated value.
-### Visualization:
 ![image](https://github.com/user-attachments/assets/b6a76ea6-9df6-45cf-bcd2-4de1d434e277)
 
 
