@@ -50,21 +50,21 @@ This project involves analyzing retail sales data in **Excel** to:
      - `VLOOKUP`/`XLOOKUP` for efficient data retrieval.
 ---
 ## 📊 **Visualizations**
-# Extracted Date Components from Data Column 📊
+### Extracted Date Components from Data Column 📊
 ![image](https://github.com/user-attachments/assets/3c5765ef-5975-4f22-b21b-44cfeb8c67c6)
-# Sorting, filtering, and analysis of transaction details 📊
+### Sorting, filtering, and analysis of transaction details 📊
 ![image](https://github.com/user-attachments/assets/0ed8272f-ccc8-4ca9-818f-00de9807b455)
-# Commission Total Using Excel SUM Function 💹
+### Commission Total Using Excel SUM Function 💹
 In this table, the **SUM** function was used to calculate the total commission for the year 2023, displaying the result in cell **L10**.
 ![image](https://github.com/user-attachments/assets/812ec98f-8bc8-4ff6-a4d5-1dae48852e3d)
-# Average Commission Using Excel AVERAGE Function 📊
+### Average Commission Using Excel AVERAGE Function 📊
 In this table, the **AVERAGE** function was used to calculate the average commission for the year 2023, with the result displayed in cell **L11**.
 ![image](https://github.com/user-attachments/assets/774c6d0d-58b3-47a1-a876-a904b6ac21a1)
-# Aggregate Functions for Sales Data Analysis 📊
+### Aggregate Functions for Sales Data Analysis 📊
 ![image](https://github.com/user-attachments/assets/90b7d25c-0235-404e-bb91-6b11fd8e63e0)
-# VLOOKUP and XLOOKUP Functions for Data Retrieval 🔍
+### VLOOKUP and XLOOKUP Functions for Data Retrieval 🔍
 ![image](https://github.com/user-attachments/assets/641f3eec-2419-4726-8db4-661d73a11cd9)
-# Concatenation and Data Validation 🎯
+### Concatenation and Data Validation 🎯
 ![image](https://github.com/user-attachments/assets/f3bdc573-8a03-40cc-b910-5f535c9ec64c)
 # Categorization and Data Summary 📊
 This step categorizes products based on sales volume and summarizes the data using a pivot table.
