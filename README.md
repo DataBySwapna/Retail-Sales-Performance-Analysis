@@ -1,7 +1,7 @@
 # 🛒 Retail Sales Performance Analysis
 ![image](https://github.com/user-attachments/assets/591784d5-bb63-4817-9a63-6b80bbafb278)
 ## 🎯 **Goal**
-Analyze retail sales data to summarize performance metrics by counties and products, categorize sales volumes, and derive actionable insights for decision-making.
+- Analyze retail sales data to summarize performance metrics by counties and products, categorize sales volumes, and derive actionable insights for decision-making.
 ---
 ## 📋 **Description**
 This project involves analyzing retail sales data in **Excel** to:
