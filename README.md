@@ -51,21 +51,21 @@ This project involves analyzing retail sales data in **Excel** to:
 ---
 ## 📊 **Visualizations**
 ### Extracted Date Components from Data Column 📊
-![image](https://github.com/user-attachments/assets/3c5765ef-5975-4f22-b21b-44cfeb8c67c6)
+![image](https://github.com/user-attachments/assets/6b7d1cde-df10-4703-bbed-cd50a8c7e594)
 ### Sorting, filtering, and analysis of transaction details 📊
-![image](https://github.com/user-attachments/assets/0ed8272f-ccc8-4ca9-818f-00de9807b455)
+![image](https://github.com/user-attachments/assets/a451ebba-8811-4986-8359-dbf442ac02d9)
 ### Commission Total Using Excel SUM Function 💹
 In this table, the **SUM** function was used to calculate the total commission for the year 2023, displaying the result in cell **L10**.
-![image](https://github.com/user-attachments/assets/812ec98f-8bc8-4ff6-a4d5-1dae48852e3d)
+![image](https://github.com/user-attachments/assets/ba3b2067-7051-4347-833f-0c0d165ed31a)
 ### Average Commission Using Excel AVERAGE Function 📊
 In this table, the **AVERAGE** function was used to calculate the average commission for the year 2023, with the result displayed in cell **L11**.
-![image](https://github.com/user-attachments/assets/774c6d0d-58b3-47a1-a876-a904b6ac21a1)
+![image](https://github.com/user-attachments/assets/fb0926da-4183-4e5d-8623-6ae945d7a9f9)
 ### Aggregate Functions for Sales Data Analysis 📊
-![image](https://github.com/user-attachments/assets/90b7d25c-0235-404e-bb91-6b11fd8e63e0)
+![image](https://github.com/user-attachments/assets/874ec6f0-a51f-4f78-ad24-ae85dadda09f)
 ### VLOOKUP and XLOOKUP Functions for Data Retrieval 🔍
-![image](https://github.com/user-attachments/assets/641f3eec-2419-4726-8db4-661d73a11cd9)
+![image](https://github.com/user-attachments/assets/ed5ca0f5-58fb-48ab-8fd1-9652069ee4a8)
 ### Concatenation and Data Validation 🎯
-![image](https://github.com/user-attachments/assets/f3bdc573-8a03-40cc-b910-5f535c9ec64c)
+![image](https://github.com/user-attachments/assets/3740bf29-4c77-4ed2-9d41-e723dc35d211)
 # Categorization and Data Summary 📊
 This step categorizes products based on sales volume and summarizes the data using a pivot table.
 - **SWITCH Function**:  
@@ -73,6 +73,7 @@ This step categorizes products based on sales volume and summarizes the data usi
 - **Pivot Table**:
   - Summarized data by county (rows) and product types (columns).
   - Sales Volume used as the aggregated value.
-![image](https://github.com/user-attachments/assets/b6a76ea6-9df6-45cf-bcd2-4de1d434e277)
+![image](https://github.com/user-attachments/assets/7b53d2b0-0318-40d6-8e49-61402954de3f)
+
 ## 💡 **Impact**
 This project strengthened skills in **Excel-based data analysis**, advanced functions, and data visualization. It demonstrated the ability to extract actionable insights and support decision-making through structured analysis.
